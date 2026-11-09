@@ -9,7 +9,7 @@
 ## 1. Project Overview
 **Ghit Feedback** is an internal, social-media-style employee feedback web platform designed to replace tedious traditional workplace surveys. As Product Owner, I defined the product vision, researched workplace pain points, authored and prioritized 15+ user stories (69 total story points), and guided sprint deliverables across role-based Employee and Administrator interfaces.
 
-*(Note: Application source code was built by the team's four developers and is hosted in the [team repository](https://github.com). This repository documents my Product Owner artifacts, requirements analysis, and Agile sprint execution.)*
+*(Note: Application source code was built by the team's four developers and is hosted in a private team repository. This repository documents my Product Owner artifacts, requirements analysis, UI walkthrough, and Agile sprint execution.)*
 
 ---
 
