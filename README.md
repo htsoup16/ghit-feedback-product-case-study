@@ -1,4 +1,3 @@
-markdown
 # Ghit Feedback — Product Owner Case Study (CIS 440 Capstone)
 
 **Role:** Product Owner  
@@ -41,10 +40,15 @@ Employees can follow specific issues for status updates and vote directly on man
 
 ![Voting and Following View](voting-poll.png)
 
-### Administrator Moderation & Analytics Dashboard
-Administrators manage user requests, moderate posts, update issue statuses (`Under Review`, `In Progress`, `Completed`), and monitor real-time engagement metrics broken down by category.
+### Administrator Moderation & Status Workflows
+Administrators review incoming feedback posts, update issue statuses (`Under Review`, `In Progress`, `Completed`), build custom solution polls, and moderate threads to maintain a constructive environment.
 
-![Admin Analytics Dashboard](admin-dashboard.png)
+![Admin Moderation View](admin-moderation.png)
+
+### Admin Dashboard Charts & Engagement Analytics
+To give leadership immediate visibility into workplace trends, the Admin Dashboard tracks live system KPIs—including **Total Users**, **Pending Requests**, **Active Today**, and **Reports This Week**—alongside a visual **Suggestions by Category** breakdown chart (*Compensation, Facilities, Management, Tools & Process, Workplace Culture, and Other*).
+
+![Admin Dashboard Charts](admin-dashboard-charts.png)
 
 ---
 
