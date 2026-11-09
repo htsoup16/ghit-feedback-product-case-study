@@ -58,3 +58,4 @@ To give leadership immediate visibility into workplace trends, the Admin Dashboa
 * **Cross-Functional Alignment:** Facilitated story estimation discussions and resolved duplicate feature implementations during sprint retrospectives to keep engineering effort focused.
 
 ![Trello Scrum Board](scrum-board.png)
+![Sprint Burndown Chart](burndown-chart.png)
